@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: blueviolet;
+    color: white;
+
+}
+
+#container-wrapper{
+    padding: 10px;
+    background-color: blueviolet;
+    box-shadow: 10px 10px 34px rgba(189, 141, 235, 0.589);
+    border-radius: 15px;
+    text-align: center;
+}
+.heading{
+    font-size: 50px;
+}
+#weather-container{
+    margin: 30px 15vw;
+    border: 3px solid white;
+    border-radius: 50px;
+}
